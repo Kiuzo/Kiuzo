@@ -3,7 +3,7 @@
 <h1> Kiuzo, 18</h1>
 
 
-<strong> Front-end Developer </strong><br>
+<strong> Front-end developer </strong><br>
 <strong> Learning in Etec Jardim Ângela </strong>
 
 <h1>Stacks</h1>

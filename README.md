@@ -22,9 +22,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&color=FDFDFD&repeat=false&width=435&lines=About++me" alt="Typing SVG" /></a>
 <div align="left">
-  <strong> Front-end developer </strong><br>
-  <strong> Learning in Etec Jardim Ângela </strong><br>
-  <strong> My real name is David, I like to make music and build websites. </strong>
+  <strong> Front-end developer </strong><br><br>
+  <strong> Learning in Etec Jardim Ângela </strong><br><br>
+  <strong> My real name is David, i like to make music and build websites. </strong>
 </div>
   
 <br>

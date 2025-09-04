@@ -7,7 +7,7 @@
 <br>
 <hr>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&color=FDFDFD&repeat=false&width=435&lines=Languages+%26+Frameworks" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1000&pause=1000&color=0D6EFD&center=true&repeat=false&width=435&lines=Languages%2C+Frameworks+%26+Tools" alt="Typing SVG" /></a>
 
 <div align="center" "style="display: inline_block">
   <img align="center" alt="Kiuzo-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

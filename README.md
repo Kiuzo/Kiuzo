@@ -38,8 +38,8 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiuzo&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" width="500px" height="900"><br>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kiuzo&count_private=true&theme=dark&hide_border=true&layout=compact" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kiuzo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="500px" height="900"><br>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kiuzo&count_private=true&theme=tokyonight&hide_border=true&layout=compact" alt="streak stats"/>
 </div>
 <br>
 <div align="center">

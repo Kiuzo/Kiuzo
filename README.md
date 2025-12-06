@@ -28,6 +28,8 @@ Tenho curiosidade em estudar novas tecnologias, entender o funcionamento por tr√
   <img align="center" alt="Kiuzo-TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Kiuzo-Next" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Kiuzo-Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Kiuzo-SupaBase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+          
 </div>
 
 #
